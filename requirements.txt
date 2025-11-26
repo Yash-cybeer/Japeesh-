@@ -1,0 +1,8 @@
+torch>=2.0
+numpy
+xarray
+netcdf4
+meshzoo
+matplotlib
+tqdm
+scipy
